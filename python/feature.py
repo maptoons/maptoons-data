@@ -1,14 +1,10 @@
 import re
-import os
 from typing import Any, Dict, List, Tuple
-import requests
 from urllib.parse import urlparse
-from PIL import Image, UnidentifiedImageError
-from io import BytesIO
 
 from bs4 import BeautifulSoup
 
-from utils import geocode, bounding_box, address_suffix, scrape_html, scrape, ascii_only
+from utils import geocode, bounding_box, address_suffix, ascii_only
 
 
 class Feature:
@@ -163,38 +159,6 @@ class Business(Feature):
         if row["Website"]:
             properties.update(Business._extract_website(row["Website"]))
         self.update(properties)
-
-    def scrape_favico(self, folder: str):
-        bid = self.properties.get("id")
-        url = self.properties.get("web")
-
-        os.makedirs(folder, exist_ok=True)
-
-        criteria = {"rel": "icon", "href": re.compile("favico"), "src": re.compile("logo")}
-        favico_url = None
-        if bid and url:
-            try:
-                html_head = scrape_html(url, ["head"])
-            except (requests.HTTPError, requests.ConnectionError):
-                return
-
-            for k,v in criteria.items():
-                tag = html_head.find(**{k:v})
-                if tag and "href" in tag.attrs:
-                    favico_url = tag["href"]
-                    favico_url = Business._clean_favico_url(url, favico_url)
-                    break
-        if favico_url:
-            filepath = f"{folder}/{bid}.png"
-            try:
-                img_data = scrape(favico_url)
-                img = Image.open(BytesIO(img_data))
-            except (requests.HTTPError, requests.ConnectionError):
-                return
-            except UnidentifiedImageError:
-                return
-            img = img.convert('RGBA')
-            img.save(filepath, "PNG")
 
     def match_category(self, category_json: Dict[str, Any], default_category=""):
         self.properties["category"] = default_category

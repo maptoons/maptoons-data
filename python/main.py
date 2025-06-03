@@ -2,7 +2,7 @@ import os
 
 from dotenv import load_dotenv
 
-from directory import BusinessDirectory, LocationDirectory
+from directory import BusinessDirectory
 from utils import load_json
 
 
@@ -23,26 +23,13 @@ class Corrections:
 
 
 def main():
-    load_dotenv()
-
-    # 1. Gather urls for all existing Maptoons maps
-    print("Extracting map locations:")
+    # 1. Load external data
+    load_dotenv() # API key for geocoder
     census_places = load_json("data/us_census/ny_places_poly.geojson")
-    locations_file = "data/locations.geojson"
-    if not os.path.isfile(locations_file):
-        locations = LocationDirectory(
-            name="Locations", census_places=census_places, filename=locations_file
-        )
-        for url in ["https://maptoons.com/nassau.html", "https://maptoons.com/suffolk.html"]:
-            locations.scrape(url)
-        locations.process()
-        locations.save_geojson()
-    else:
-        print("  Skipping download.", locations_file, "already exists")
+    business_categories = load_json("data/subcategories.json")
 
     # 2. Scrape selected map urls
     print("\nCollecting business data from web for selected locations:")
-    business_categories = load_json("data/subcategories.json")
 
     maps_to_scrape = [
         DataSource(
