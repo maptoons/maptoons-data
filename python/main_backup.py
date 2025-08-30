@@ -32,15 +32,15 @@ def main():
     print("\nCollecting business data from web for selected locations:")
 
     maps_to_scrape = [
-        #DataSource(
-        #    name="Hicksville, NY",
-        #    url="https://maptoons.com/hicksville-2025.html",
-        #    geojson="data/hicksville.geojson",
-        #),
         DataSource(
-            name="North Babylon, NY",
-            csv="data/2025_best_of_nb.csv",
-            geojson="data/north_babylon.geojson",
+            name="Hicksville, NY",
+            url="https://maptoons.com/hicksville-2025.html",
+            geojson="data/hicksville.geojson",
+        ),
+        DataSource(
+            name="Long Beach, NY",
+            csv="data/2025_Best_of_Long_Beach.csv",
+            geojson="data/long_beach.geojson",
         )
     ]
     for m in maps_to_scrape:
@@ -61,16 +61,16 @@ def main():
     # 3. Apply local corrections
     print("\nApplying updates/corrections:")
     maps_to_fix = [
-        #Corrections(
-        #    filename="data/hicksville.geojson",
-        #    corrections="data/hicksville-corrections.geojson",
-        #    csv="data/Best_of_HK_2024.csv",
-        #    img="img/HK-*png",
-        #),
         Corrections(
-            filename="data/north_babylon.geojson",
-            corrections="data/north_babylon_corrected.geojson",
-            img="img/NB-*png"
+            filename="data/hicksville.geojson",
+            corrections="data/hicksville-corrections.geojson",
+            csv="data/Best_of_HK_2024.csv",
+            img="img/HK-*png",
+        ),
+        Corrections(
+            filename="data/long_beach.geojson",
+            corrections="data/long_beach-corrections.geojson",
+            img="img/LB-*png"
         ),
     ]
     for m in maps_to_fix:

@@ -1,4 +1,32 @@
 {
+    "Shop & Discover": {
+        "category": "shop_and_discover",
+        "subcategory": "shop_and_discover"
+    },
+    "Live & Work": {
+        "category": "live_and_work",
+        "subcategory": "live_and_work"
+    },
+    "Thrive & Be Well": {
+        "category": "thrive_and_be_well",
+        "subcategory": "thrive_and_be_well"
+    },
+    "Learn & Play": {
+        "category": "learn_and_play",
+        "subcategory": "learn_and_play"
+    },
+    "Visit & Experience": {
+        "category": "visit_and_experience",
+        "subcategory": "visit_and_experience"
+    },
+    "Gather & Connect": {
+        "category": "gather_and_connect",
+        "subcategory": "gather_and_connect"
+    },
+    "Eat & Drink": {
+        "category": "eat_and_drink",
+        "subcategory": "eat_and_drink"
+    },
     "Delicatessen": {
         "category": "eat_and_drink",
         "subcategory": "delis_and_catering"
