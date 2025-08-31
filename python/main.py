@@ -69,7 +69,7 @@ def main():
         #),
         Corrections(
             filename="data/north_babylon.geojson",
-            corrections="data/north_babylon_corrected.geojson",
+        #    corrections="data/north_babylon_corrected.geojson",
             img="img/NB-*png"
         ),
     ]

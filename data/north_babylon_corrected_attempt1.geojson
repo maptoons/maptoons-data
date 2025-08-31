@@ -1,8 +1,9 @@
 {
   "type": "FeatureCollection",
+  "name": "North Babylon Corrections",
   "features": [
     {
-      "id": "I5VP0HrOWOOEY1CiKNig9mW5iYuvruwU",
+      "id": "skZwCvyMnqSHMiM4kW1S4lbTpX3sBfTJ",
       "type": "Feature",
       "properties": {
         "id": "stablesgardencenter",
@@ -18,9 +19,7 @@
         "web": "http://StablesGardens.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "1141 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "Q",
-        "img": "NB-1Q"
+        "address_formatted": "1141 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -31,7 +30,7 @@
       }
     },
     {
-      "id": "xRsY2BtNDcRl38lL45J4LuBBwpuLwcfH",
+      "id": "PEyxNNOAY3QxWZJBvyJhdcEEYTJKwCP7",
       "type": "Feature",
       "properties": {
         "id": "alltowntowingrepairs",
@@ -45,9 +44,7 @@
         "web": "http://AllTownTow.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "622 Route 109, Lindenhurst, NY 11757, United States of America",
-        "priority": "T",
-        "img": "NB-2T"
+        "address_formatted": "622 Route 109, Lindenhurst, NY 11757, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -58,7 +55,7 @@
       }
     },
     {
-      "id": "NtR5HTj01lRhsZmb43E8y6WrIoN6zUR9",
+      "id": "TL4M0gPZPX1tiO4ansuLWNqyAk9QsVrs",
       "type": "Feature",
       "properties": {
         "id": "performaxphysicaltherapywellness",
@@ -72,20 +69,18 @@
         "web": "http://PerformaxPTW.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "150 Bay Shore Road, North Babylon, NY 11706, United States of America",
-        "priority": "Q",
-        "img": "NB-3Q"
+        "address_formatted": "150 Bay Shore Road, North Babylon, NY 11706, United States of America"
       },
       "geometry": {
         "coordinates": [
-          -73.32122652358767,
-          40.74815796871513
+          -73.3205125174898,
+          40.747969000408936
         ],
         "type": "Point"
       }
     },
     {
-      "id": "DWENl5VhVRMc25LGY84h2eknxCZThwgD",
+      "id": "Jk201OWDnWFaa1MlyYwMt2mrR7kUbWic",
       "type": "Feature",
       "properties": {
         "id": "stairglide",
@@ -101,9 +96,7 @@
         "web": "http://StairGlideNY.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "410 Sunrise Highway, West Babylon, NY 11704, United States of America",
-        "priority": "T",
-        "img": "NB-4T"
+        "address_formatted": "410 Sunrise Highway, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -114,7 +107,7 @@
       }
     },
     {
-      "id": "DIFfW058UuWL25KdXTIfXdyqoya0yktb",
+      "id": "xZWzWCDVlSU9wpawwXitIRZh7RuliGiv",
       "type": "Feature",
       "properties": {
         "id": "colstanassociatesinc",
@@ -128,9 +121,7 @@
         "web": "http://Colstan.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "512 Sunrise Highway, West Babylon, NY 11704, United States of America",
-        "priority": "Q",
-        "img": "NB-5Q"
+        "address_formatted": "512 Sunrise Highway, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -141,7 +132,7 @@
       }
     },
     {
-      "id": "O1sNwNWh2JR9QfwjUdNZqIhRHwKf9fpQ",
+      "id": "3O9oj0EfI6TMK3aFFJdhvJGDEMBzvXnU",
       "type": "Feature",
       "properties": {
         "id": "bkgynmastics",
@@ -155,9 +146,7 @@
         "web": "http://BKGymnastics.net",
         "category": "learn_and_play",
         "subcategory": "learn_and_play",
-        "address_formatted": "25 South Jerome Avenue, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-6D"
+        "address_formatted": "25 South Jerome Avenue, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -168,7 +157,7 @@
       }
     },
     {
-      "id": "VnuKLkdtxUfdlF3JeQt0UbJ2CF0GOX82",
+      "id": "AmDehaWndkpRKY1O4kWl4AUGJZjWH6pT",
       "type": "Feature",
       "properties": {
         "id": "northbabylondental",
@@ -184,9 +173,7 @@
         "web": "http://NorthBabylonDental.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "837 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "Q",
-        "img": "NB-7Q"
+        "address_formatted": "837 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -197,7 +184,7 @@
       }
     },
     {
-      "id": "nR4KM98k7irBuzZN2oIRHjBKO5xynDKQ",
+      "id": "lbhva1vsUm0oykZnuQoiLngZlbnRG9XJ",
       "type": "Feature",
       "properties": {
         "id": "acarpet",
@@ -211,9 +198,7 @@
         "web": "http://Westbabylon.AbbeyCarpet.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "632 Sunrise Highway, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-8D"
+        "address_formatted": "632 Sunrise Highway, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -224,7 +209,7 @@
       }
     },
     {
-      "id": "WvPWUXD61hqeHVyL2lQFOVIwlC8vMmqz",
+      "id": "sgkaDFHrk7folsiLlonhjCpbnP5Pd9b9",
       "type": "Feature",
       "properties": {
         "id": "bubbleteaculture",
@@ -238,20 +223,18 @@
         "instagram": "https://www.instagram.com/bubbleteaculture/",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "1161 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "S",
-        "img": "NB-9S"
+        "address_formatted": "1161 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
-          -73.31984259827317,
-          40.73631813633374
+          -73.31986256598714,
+          40.73643384468394
         ],
         "type": "Point"
       }
     },
     {
-      "id": "xxJwdSnsWNH0fIkKpPuYHGX1uA1kBNXs",
+      "id": "2pHPFpFcKa5qQThmKNs5zJptuJOKAO0G",
       "type": "Feature",
       "properties": {
         "id": "scrapalatte",
@@ -265,9 +248,7 @@
         "web": "http://ScrapALatte.net",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "877 Little East Neck Road North, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-10D"
+        "address_formatted": "877 Little East Neck Road North, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -278,7 +259,7 @@
       }
     },
     {
-      "id": "LrgANKfIIULTZziaQo5ofvk02wLlqAPY",
+      "id": "2zPiFBhg4fvs5gxQResjPacgsoY9SskZ",
       "type": "Feature",
       "properties": {
         "id": "perfectionbarbershop",
@@ -292,9 +273,7 @@
         "instagram": "https://www.instagram.com/PerfectionBarberz/",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "1011 Little East Neck Road North, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-11D"
+        "address_formatted": "1011 Little East Neck Road North, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -305,7 +284,7 @@
       }
     },
     {
-      "id": "JmRPUvZE20DHP9s1XQ5lVZOHt70toRqT",
+      "id": "ImJiDlj6AsFAIa15Wc9wGiQLkaETQXvR",
       "type": "Feature",
       "properties": {
         "id": "theupsstore",
@@ -319,9 +298,7 @@
         "web": "http://TheUPSStore.com/2520",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "1488 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "T",
-        "img": "NB-13T"
+        "address_formatted": "1488 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -332,7 +309,7 @@
       }
     },
     {
-      "id": "LIlH4oFHRxpjXQG1K6iJEaMmq9yOPGYq",
+      "id": "rKk65hfBK3kUVS98PuGkM0jEjevkhVpg",
       "type": "Feature",
       "properties": {
         "id": "nonnabellaspizzacafe",
@@ -348,20 +325,18 @@
         "web": "http://NonnaBellas.com",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "765 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "Q",
-        "img": "NB-14Q"
+        "address_formatted": "765 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
-          -73.32208931330825,
-          40.721175599999995
+          -73.32209731967367,
+          40.7210967163267
         ],
         "type": "Point"
       }
     },
     {
-      "id": "YPZhUvdFM9Pr6p9DEHMcbv7sWve4dXgV",
+      "id": "IkWjH1mWWxY6hZSY3PzFsulwKyejSclA",
       "type": "Feature",
       "properties": {
         "id": "stregarose",
@@ -369,26 +344,24 @@
         "town": "N. Babylon",
         "business": "Shop & Discover",
         "info": "Private studio for custom tattoos, holistic wellness, beauty, and mediumship readings. Over 50+ years experience combined. No distractions,  just art, care, and connection.",
-        "mapname": "Strega Rose Tattoo Arts",
+        "mapname": "Strega Rose",
         "loc": 15,
         "phone": "631-290-8278",
         "web": "http://StregaRoseTattooArts.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "777 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "T",
-        "img": "NB-15T"
+        "address_formatted": "777 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
-          -73.32224542041723,
-          40.72177492069028
+          -73.32227051725133,
+          40.72170011708252
         ],
         "type": "Point"
       }
     },
     {
-      "id": "cCAl1yuP8h7ign1wsHCqEsQNnm6JVd1W",
+      "id": "WCYjciH8DDRL4earMOukUCPwWJuIANWL",
       "type": "Feature",
       "properties": {
         "id": "mangiapizzaitalianrestaurant",
@@ -402,9 +375,7 @@
         "web": "http://MangiaPizzaNB.com",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "785 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "T",
-        "img": "NB-16T"
+        "address_formatted": "785 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -415,7 +386,7 @@
       }
     },
     {
-      "id": "nZHaFgiMaBUylbElVb9s55vqMy0sqbF9",
+      "id": "K6qRjJGqetmjjEqgritVn04MyOEognxG",
       "type": "Feature",
       "properties": {
         "id": "bergenpointyachtbasin",
@@ -429,9 +400,7 @@
         "web": "http://Bergenpointmarina.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "601 Bergen Avenue, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-17D"
+        "address_formatted": "601 Bergen Avenue, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -442,7 +411,7 @@
       }
     },
     {
-      "id": "JvUFWwApywdcALpjCkiMOxTALPc9Otwj",
+      "id": "dvXpFbyrKM8Nb3pS4mPzbWbjIcgPQRcq",
       "type": "Feature",
       "properties": {
         "id": "towersflowers",
@@ -456,9 +425,7 @@
         "web": "http://TowersFlowers.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "1350 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "Q",
-        "img": "NB-18Q"
+        "address_formatted": "1350 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -469,7 +436,7 @@
       }
     },
     {
-      "id": "Td8SoLVzpN58wKuc5WL0dldhK3kaOci0",
+      "id": "msG9EjRiAbeQOnIaCHDy4L2DgeehEtaq",
       "type": "Feature",
       "properties": {
         "id": "assetcoverageinsuranceagency",
@@ -482,9 +449,7 @@
         "phone": "631-661-3333",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "645 Route 109, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-19D"
+        "address_formatted": "645 Route 109, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -495,7 +460,7 @@
       }
     },
     {
-      "id": "JvVhDhWri8qif6fdvVuVB54j5xVFC4EU",
+      "id": "0ifdYQOjbNxLDSPApeObxsjImEdkZygk",
       "type": "Feature",
       "properties": {
         "id": "looneytunesrecordstore",
@@ -509,9 +474,7 @@
         "web": "http://LTCDS.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "31 Brookvale Avenue, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-20D"
+        "address_formatted": "31 Brookvale Avenue, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -522,7 +485,7 @@
       }
     },
     {
-      "id": "FVC4FQK48jW4dK75zmLKt0MlMxjbMNIm",
+      "id": "bR9WTR8QCB40EcYT3RCY2QEWIpdgnhWp",
       "type": "Feature",
       "properties": {
         "id": "mathewsprimemeats",
@@ -536,9 +499,7 @@
         "web": "http://MathewsPrime.com",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "245 Route 109, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-21D"
+        "address_formatted": "245 Route 109, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -549,7 +510,7 @@
       }
     },
     {
-      "id": "hSYnzJnyxh0IG2i7aTX2neHncdBwofxj",
+      "id": "vJU4wi6zEMZUpUMp5p8CVVlljh5O4hzb",
       "type": "Feature",
       "properties": {
         "id": "uneedabagel",
@@ -563,9 +524,7 @@
         "web": "http://Like us on Facebook",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "757 Sunrise Highway, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-22D"
+        "address_formatted": "757 Sunrise Highway, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -576,7 +535,7 @@
       }
     },
     {
-      "id": "E1z8CMNuy0iqVH2G4jKZCDvx4d4zDqdZ",
+      "id": "PyRGGcWGmzpNzje5vemIPicUl5qsHl5v",
       "type": "Feature",
       "properties": {
         "id": "mcdonalds",
@@ -590,9 +549,7 @@
         "web": "http://McDonalds.com",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "McDonald's, 1255 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "D",
-        "img": "NB-23D"
+        "address_formatted": "McDonald's, 1255 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -603,7 +560,7 @@
       }
     },
     {
-      "id": "IyjOTnYQG6Dg73Vmra2vr8v6n0uOScRA",
+      "id": "xIUyIRsPXJfObgVhR2jK3S3o6jIC0xpc",
       "type": "Feature",
       "properties": {
         "id": "longislandcarcarecenter",
@@ -617,9 +574,7 @@
         "facebook": "https://www.facebook.com/Long Island Car Care Center",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "333 Bay Shore Road, Deer Park, NY 11729, United States of America",
-        "priority": "T",
-        "img": "NB-24T"
+        "address_formatted": "333 Bay Shore Road, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -630,7 +585,7 @@
       }
     },
     {
-      "id": "8ymD9Ouy63evPWOuKyIDnRF0qeF33qN9",
+      "id": "fpmrkQH7fXjmQf36yDmkcbQpGLVTG3SY",
       "type": "Feature",
       "properties": {
         "id": "joeriscicasautorepair",
@@ -646,9 +601,7 @@
         "web": "http://JoeRiscicasAutoRepairs.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "291 Bay Shore Road, Deer Park, NY 11729, United States of America",
-        "priority": "T",
-        "img": "NB-25T"
+        "address_formatted": "291 Bay Shore Road, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -659,7 +612,7 @@
       }
     },
     {
-      "id": "a3QOr14rLZoXabOG5FHIn0Fk01Zb0Jj7",
+      "id": "U80ztmZdDBrXPIZRCWL0cjmedAmkKeFd",
       "type": "Feature",
       "properties": {
         "id": "jkautoservicetires",
@@ -673,9 +626,7 @@
         "web": "http://JKAutoServ.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "1041 Little East Neck Road North, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-27D"
+        "address_formatted": "1041 Little East Neck Road North, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -686,7 +637,7 @@
       }
     },
     {
-      "id": "cgXeoMLv5I70BH0DQjwGZdf18Ij13w61",
+      "id": "ioUuxbecbkhBiQi5DOxnhYu1wVc8YcyY",
       "type": "Feature",
       "properties": {
         "id": "arsautorepair",
@@ -699,9 +650,7 @@
         "phone": "631-595-1900",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "1470 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "S",
-        "img": "NB-28S"
+        "address_formatted": "1470 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -712,7 +661,7 @@
       }
     },
     {
-      "id": "STfQI3Cw3fikG7N9l6KU6i1MwRDyj8V7",
+      "id": "j02NzY70IsHezpcFcEcQV4Tjk0yGpese",
       "type": "Feature",
       "properties": {
         "id": "southswell",
@@ -726,20 +675,18 @@
         "web": "http://SouthSwellBergenPoint.com",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "605 Bergen Avenue, West Babylon, NY 11704, United States of America",
-        "priority": "Q",
-        "img": "NB-29Q"
+        "address_formatted": "605 Bergen Avenue, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
-          -73.33791058875045,
-          40.676386945857004
+          -73.33788876750151,
+          40.67646206090957
         ],
         "type": "Point"
       }
     },
     {
-      "id": "IBnNLQ0i7cAXygciifSBGytxvop5nSjL",
+      "id": "wXca87OzfKr1jD3cV3wUiP5VM0skrPU8",
       "type": "Feature",
       "properties": {
         "id": "bergenbaydocks",
@@ -753,20 +700,18 @@
         "web": "http://BergenBayDocks.com",
         "category": "visit_and_experience",
         "subcategory": "visit_and_experience",
-        "address_formatted": "605 Bergen Avenue, West Babylon, NY 11704, United States of America",
-        "priority": "Q",
-        "img": "NB-29Q"
+        "address_formatted": "605 Bergen Avenue, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
-          -73.33789739718735,
-          40.67650699999102
+          -73.33790569749549,
+          40.6765401693081
         ],
         "type": "Point"
       }
     },
     {
-      "id": "Je6KhbwnewvStuRF6jrGyGQijaSncOFW",
+      "id": "lCSs5kmkjTF1tyswjZ8t0xvhhLTWUUDW",
       "type": "Feature",
       "properties": {
         "id": "greatnorthernfibers",
@@ -780,9 +725,7 @@
         "web": "http://GreatNorthernFibers.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "7 Field Street, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-30D"
+        "address_formatted": "7 Field Street, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -793,7 +736,7 @@
       }
     },
     {
-      "id": "0KMBCLZEvRMH1qF2KmybJfeGPbIJgdas",
+      "id": "k7VGfPCBigDR48HrmBQwu9AvtVYKBbI3",
       "type": "Feature",
       "properties": {
         "id": "ridgewoodsavingsbank",
@@ -807,9 +750,7 @@
         "web": "http://RidgewoodBank.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "50 Route 109, West Babylon, NY 11704, United States of America",
-        "priority": "T",
-        "img": "NB-31T"
+        "address_formatted": "50 Route 109, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -820,7 +761,7 @@
       }
     },
     {
-      "id": "QWu46Yf8B2dCSb3MmGUUJ8AcGFjXLJta",
+      "id": "sBi2zFBTsRg67GA4YhoHIquUNS0Qc2VX",
       "type": "Feature",
       "properties": {
         "id": "allpetsanimalhospital",
@@ -834,9 +775,7 @@
         "web": "http://AllPetsAnimalHospital-Babylon.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "975 Little East Neck Road, West Babylon, NY 11704, United States of America",
-        "priority": "Q",
-        "img": "NB-32Q"
+        "address_formatted": "975 Little East Neck Road, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -847,7 +786,7 @@
       }
     },
     {
-      "id": "jgS4e3Yevq3bzpcB6xjvvoHxac66noZF",
+      "id": "9HPwobJOG3BLJgq7os8ezAt6NL6SAz6p",
       "type": "Feature",
       "properties": {
         "id": "kinggutters",
@@ -860,9 +799,7 @@
         "phone": "631-888-0628",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "271 Skidmore Road, Deer Park, NY 11729, United States of America",
-        "priority": "S",
-        "img": "NB-33S"
+        "address_formatted": "271 Skidmore Road, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -873,7 +810,7 @@
       }
     },
     {
-      "id": "LhaprF1sYBWfEP3qUfr7dgwdkUt4V4NG",
+      "id": "65DKRmTpkPLFIZhohUCwQTMB0uEpSKDC",
       "type": "Feature",
       "properties": {
         "id": "rcollisionautobody",
@@ -888,9 +825,7 @@
         "exp": "8/31/2026",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "Skidmore Road, Deer Park, NY 11729, United States of America",
-        "priority": "Q",
-        "img": "NB-34Q"
+        "address_formatted": "Skidmore Road, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -901,7 +836,7 @@
       }
     },
     {
-      "id": "JeohlaGzbk0VWij9rPETS7AbMbR9rwc4",
+      "id": "ctymRoPFEILZs7IC6d5rICxapWr5sSIR",
       "type": "Feature",
       "properties": {
         "id": "artsigns",
@@ -915,9 +850,7 @@
         "web": "http://ArtSignsCompany.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "407 Lexington Avenue, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-35D"
+        "address_formatted": "407 Lexington Avenue, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -928,7 +861,7 @@
       }
     },
     {
-      "id": "lSNGGaova59CQtvFMYKq2kgDrK7qMby1",
+      "id": "IJUCHkwPOFhvEjVh5EBr1PF6lwISMCIF",
       "type": "Feature",
       "properties": {
         "id": "ablelocksmith",
@@ -942,9 +875,7 @@
         "web": "http://AbleLock.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "980 Sunrise Highway, West Babylon, NY 11704, United States of America",
-        "priority": "Q",
-        "img": "NB-36Q"
+        "address_formatted": "980 Sunrise Highway, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -955,7 +886,7 @@
       }
     },
     {
-      "id": "t6Af2g1C42sBGulbH9Gg3y0B6TSLDG4m",
+      "id": "i6eejQgC1ZknlFC3s0MXCx3RlOLFBhFU",
       "type": "Feature",
       "properties": {
         "id": "attorneysatlawwexlersnoverschaffer",
@@ -968,9 +899,7 @@
         "phone": "631-422-2900",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "816 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "D",
-        "img": "NB-37D"
+        "address_formatted": "816 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -981,7 +910,7 @@
       }
     },
     {
-      "id": "pYknUhfBF5ipbj8PZ0YHAMCkTDjxVBPU",
+      "id": "dGS3vjsHuxtaGpdYIdk762bgAybYFMfN",
       "type": "Feature",
       "properties": {
         "id": "coldwellbankereastonproperties",
@@ -995,9 +924,7 @@
         "web": "http://ColdwellBankerEaston.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "1405 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "T",
-        "img": "NB-38T"
+        "address_formatted": "1405 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1008,7 +935,7 @@
       }
     },
     {
-      "id": "7GE1VwDoZGu9ujusuGjP3QVMjJaaL9ob",
+      "id": "31qPFOJauoozuONgsSQjJ9slcG4ao2v4",
       "type": "Feature",
       "properties": {
         "id": "thebarnpetfeedsupplies",
@@ -1022,9 +949,7 @@
         "web": "http://TheBarnFeedStore.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "315 Bay Shore Road, Deer Park, NY 11729, United States of America",
-        "priority": "D",
-        "img": "NB-40D"
+        "address_formatted": "315 Bay Shore Road, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1035,7 +960,7 @@
       }
     },
     {
-      "id": "rfHmzM2sz0MLPIuk9Hd7IJ0TqjLRtgWh",
+      "id": "U4MyamMLE3p90jJ7YlYRred50v8cWMyu",
       "type": "Feature",
       "properties": {
         "id": "melsbarber",
@@ -1049,9 +974,7 @@
         "web": "http://MelsBarbershopWB.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "1044 Little East Neck Road, West Babylon, NY 11704, United States of America",
-        "priority": "S",
-        "img": "NB-41S"
+        "address_formatted": "1044 Little East Neck Road, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1062,7 +985,7 @@
       }
     },
     {
-      "id": "mwxSGrHQWk9EGxc7l55c4xCJCOi9WIzi",
+      "id": "AJTiBoerta8PY5QDJUo0PHqD3bNk7Kz0",
       "type": "Feature",
       "properties": {
         "id": "longislandwholesalebeverage",
@@ -1075,9 +998,7 @@
         "phone": "631-643-9617",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "394 Long Island Avenue, Wyandanch, NY 11798, United States of America",
-        "priority": "T",
-        "img": "NB-42T"
+        "address_formatted": "394 Long Island Avenue, Wyandanch, NY 11798, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1088,7 +1009,7 @@
       }
     },
     {
-      "id": "cWK03ZazWJhDs0T0PURep9G2no9xrUrD",
+      "id": "l4eH3Nxrhy2dhXNN58TIZKt8XzcqbNOZ",
       "type": "Feature",
       "properties": {
         "id": "casadelcampodominicanrestaurant",
@@ -1102,20 +1023,18 @@
         "web": "http://CasaDelCampoNY.com",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "1159 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "T",
-        "img": "NB-43T"
+        "address_formatted": "1159 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
-          -73.31982155465988,
-          40.73621887537693
+          -73.31985127653236,
+          40.73626799881314
         ],
         "type": "Point"
       }
     },
     {
-      "id": "JrtuQQmC5rzFLdnJ1jEa1CZ3S8AaLDiB",
+      "id": "cZUDesr58lK3J8kuzHAGmvHU4nqETKYC",
       "type": "Feature",
       "properties": {
         "id": "ajcraneservice",
@@ -1129,9 +1048,7 @@
         "web": "http://ANJCranes.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "121 Wyandanch Avenue, Wyandanch, NY 11798, United States of America",
-        "priority": "Q",
-        "img": "NB-44Q"
+        "address_formatted": "121 Wyandanch Avenue, Wyandanch, NY 11798, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1142,7 +1059,7 @@
       }
     },
     {
-      "id": "ZDhX4etKUTnccASYXFc2SGIRl4E7b9SU",
+      "id": "eID4CItXTUmrE2o5vdy3QVq5NTv7gk6O",
       "type": "Feature",
       "properties": {
         "id": "eastnecknursingandrehabilitationcenter",
@@ -1156,9 +1073,7 @@
         "web": "http://ENNRC.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "134 Great East Neck Road, West Babylon, NY 11704, United States of America",
-        "priority": "Q",
-        "img": "NB-45Q"
+        "address_formatted": "134 Great East Neck Road, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1169,7 +1084,7 @@
       }
     },
     {
-      "id": "H8UTTF9dza4p2vHItYxNJOEnpoJLevk9",
+      "id": "XrSaf5zE2EFFsIHBxoiNGL1epc5Nqc72",
       "type": "Feature",
       "properties": {
         "id": "kjpartyrentals",
@@ -1183,9 +1098,7 @@
         "web": "http://KJPartyRentals.net",
         "category": "learn_and_play",
         "subcategory": "learn_and_play",
-        "address_formatted": "225 17th Street, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-47D"
+        "address_formatted": "225 17th Street, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1196,7 +1109,7 @@
       }
     },
     {
-      "id": "TgHE2SbqaJfFfWY1BC0ukhUtVafjnbcI",
+      "id": "gZH3NzD9r6F9FeW6ClNISSfhBSn0bLSA",
       "type": "Feature",
       "properties": {
         "id": "villabellabakery",
@@ -1210,20 +1123,18 @@
         "web": "http://VillaBellaBakery.com",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "1042 Little East Neck Road, West Babylon, NY 11704, United States of America",
-        "priority": "S",
-        "img": "NB-48S"
+        "address_formatted": "1042 Little East Neck Road, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
-          -73.35983348725944,
-          40.724815785971245
+          -73.35985,
+          40.7248575
         ],
         "type": "Point"
       }
     },
     {
-      "id": "MYUQFkQg489dLkaUjeDFuuWu2o4YaIHC",
+      "id": "xfly50gaJB3aZ279c8yZF9e0CYBpOxTw",
       "type": "Feature",
       "properties": {
         "id": "bagelfactory",
@@ -1236,9 +1147,7 @@
         "phone": "631-661-0011",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "615 West Montauk Highway, West Babylon, NY 11704, United States of America",
-        "priority": "S",
-        "img": "NB-49S"
+        "address_formatted": "615 West Montauk Highway, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1249,7 +1158,7 @@
       }
     },
     {
-      "id": "iMT9FAj20LRK8UT11PKBz2nepzE0AZ7H",
+      "id": "uSe7qnmTjZe0U8TyWtZpYw1n9iRSDLu4",
       "type": "Feature",
       "properties": {
         "id": "deerparkpharmacy",
@@ -1263,9 +1172,7 @@
         "web": "http://DeerParkPharmacy.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "1155 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "T",
-        "img": "NB-50T"
+        "address_formatted": "1155 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1276,7 +1183,7 @@
       }
     },
     {
-      "id": "S7w1AjMuNuuvu081Aqv2HUqnjuEMUiyk",
+      "id": "nN0kZoSw6WFF529LY1KWo3dETYp8fy1j",
       "type": "Feature",
       "properties": {
         "id": "xpressmarkettogo",
@@ -1290,9 +1197,7 @@
         "instagram": "https://www.instagram.com/xpressmarket_231/",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "1273 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "D",
-        "img": "NB-51D"
+        "address_formatted": "1273 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1303,7 +1208,7 @@
       }
     },
     {
-      "id": "bZX5CPOcDMKcE7xpCOlWJD1yU2tv0l9Y",
+      "id": "2idyQBPTQJXQc2t3WItqL3U0sXkwAdkw",
       "type": "Feature",
       "properties": {
         "id": "carlenecalabreserealtyconnectusa",
@@ -1317,9 +1222,7 @@
         "web": "http://CarleneCalabrese.RealtyConnectUSA.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "334 Deer Park Avenue, Village of Babylon, NY 11702, United States of America",
-        "priority": "Q",
-        "img": "NB-52Q"
+        "address_formatted": "334 Deer Park Avenue, Village of Babylon, NY 11702, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1330,7 +1233,7 @@
       }
     },
     {
-      "id": "MgGY5pUk6EJib7v5ufMwzA4VsNmVVbuW",
+      "id": "TP8UgWdelFk9tRLLkKIFwfYanEeEQVR7",
       "type": "Feature",
       "properties": {
         "id": "sunseteyecare",
@@ -1344,9 +1247,7 @@
         "web": "http://SunsetEyecares.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "1148 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "D",
-        "img": "NB-53D"
+        "address_formatted": "1148 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1357,7 +1258,7 @@
       }
     },
     {
-      "id": "dgfXMm7tC83APFYurIWNG9PCwSh7sCy5",
+      "id": "XnVG7Vd6twlbb8q2sXmXqs8tMJhuiWvM",
       "type": "Feature",
       "properties": {
         "id": "olympicdiner",
@@ -1370,9 +1271,7 @@
         "phone": "631-242-1902",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "1536 Deer Park Avenue, Deer Park, NY 11729, United States of America",
-        "priority": "S",
-        "img": "NB-54S"
+        "address_formatted": "1536 Deer Park Avenue, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1383,7 +1282,7 @@
       }
     },
     {
-      "id": "FUCeKwpL2vxRogRj1SdG21HhYeLZMYH7",
+      "id": "S4Y8BYqgxFUVHx1xvLhTgC39KMwxCwOK",
       "type": "Feature",
       "properties": {
         "id": "wyandanchpubliclibrary",
@@ -1397,9 +1296,7 @@
         "web": "http://WyandanchLibrary.org",
         "category": "learn_and_play",
         "subcategory": "learn_and_play",
-        "address_formatted": "14 South 20th Street, Wyandanch, NY 11798, United States of America",
-        "priority": "T",
-        "img": "NB-55T"
+        "address_formatted": "14 South 20th Street, Wyandanch, NY 11798, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1410,7 +1307,7 @@
       }
     },
     {
-      "id": "zXPewA9EstVzmc9R5E5Qu6UEsqW3oMwH",
+      "id": "wT07lXR4kDcLpY7YrKK94d0yHt8rJbSk",
       "type": "Feature",
       "properties": {
         "id": "aasystemstruckbus",
@@ -1424,9 +1321,7 @@
         "web": "http://AASTB.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "110 Wyandanch Avenue, Wyandanch, NY 11798, United States of America",
-        "priority": "D",
-        "img": "NB-56D"
+        "address_formatted": "110 Wyandanch Avenue, Wyandanch, NY 11798, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1437,7 +1332,7 @@
       }
     },
     {
-      "id": "jg4fbCwIRDAGOEhTbSF1rbMzRyAKW8ZA",
+      "id": "QLdTCfsLpecGE9IeC40EwZF4Ybysxx8G",
       "type": "Feature",
       "properties": {
         "id": "manganofuneralhome",
@@ -1451,9 +1346,7 @@
         "web": "http://ManganoFH.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "1701 Deer Park Avenue, Deer Park, NY 11729, United States of America",
-        "priority": "Q",
-        "img": "NB-57Q"
+        "address_formatted": "1701 Deer Park Avenue, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1464,7 +1357,7 @@
       }
     },
     {
-      "id": "zNVkekGiSp8T6S41eQAbUUhUePOz0m31",
+      "id": "7tOFvljHyZuM24gRUleGIksoM9saHnAd",
       "type": "Feature",
       "properties": {
         "id": "bricksminifigs",
@@ -1478,9 +1371,7 @@
         "web": "http://BricksAndMinifigs.com/WestBabylon-NY",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "709 West Montauk Highway, Copiague, NY 11757, United States of America",
-        "priority": "Q",
-        "img": "NB-58Q"
+        "address_formatted": "709 West Montauk Highway, Copiague, NY 11757, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1491,7 +1382,7 @@
       }
     },
     {
-      "id": "oJ3HzpOuT2ASXY23dJKud0IthYqiBwoW",
+      "id": "AmnfWUaqhWvY91yN9xfq8cyQEdxKjwFS",
       "type": "Feature",
       "properties": {
         "id": "imxpilates",
@@ -1505,9 +1396,7 @@
         "web": "http://IMXPilatesLI.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "1930 Deer Park Avenue, Deer Park, NY 11729, United States of America",
-        "priority": "D",
-        "img": "NB-59D"
+        "address_formatted": "1930 Deer Park Avenue, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1518,7 +1407,7 @@
       }
     },
     {
-      "id": "ZcZ9WAJDGLj7Krsh2wtPeVYQE8zGGBkx",
+      "id": "ezNNmze2fYbBlBiaVcdIHlvJlEJgO141",
       "type": "Feature",
       "properties": {
         "id": "clauderboydcaratozzolofuneralhome",
@@ -1532,9 +1421,7 @@
         "web": "http://Boyd-CaratozzoloFuneralHome.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "1785 Deer Park Avenue, Deer Park, NY 11729, United States of America",
-        "priority": "Q",
-        "img": "NB-60Q"
+        "address_formatted": "1785 Deer Park Avenue, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1545,7 +1432,7 @@
       }
     },
     {
-      "id": "nrQX7mg9spe7SKTug0mSIERPqi9nkKRX",
+      "id": "Geig9BPnLycF40dnVo1gsgouZR5hJsk8",
       "type": "Feature",
       "properties": {
         "id": "galleriamart",
@@ -1558,9 +1445,7 @@
         "phone": "631-587-7937",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "379 Little East Neck Road North, West Babylon, NY 11704, United States of America",
-        "priority": "S",
-        "img": "NB-61S"
+        "address_formatted": "379 Little East Neck Road North, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1571,7 +1456,7 @@
       }
     },
     {
-      "id": "8ZhDrUGfqo8XGKUvBYmOSRYFt4KjvULo",
+      "id": "U96NRAtigcTJQ3IVqCbfRzL2ALoEpP06",
       "type": "Feature",
       "properties": {
         "id": "thegoldsource",
@@ -1585,9 +1470,7 @@
         "web": "http://TheGoldSourceJewelry.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "347 Bay Shore Road, Deer Park, NY 11729, United States of America",
-        "priority": "S",
-        "img": "NB-62S"
+        "address_formatted": "347 Bay Shore Road, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1598,7 +1481,7 @@
       }
     },
     {
-      "id": "oqBkdjIzdk6M50mkfB3GdLG667KIr4EQ",
+      "id": "0RHzGtIS374n5RNLQi9NsJ8UBsaWKbwl",
       "type": "Feature",
       "properties": {
         "id": "fiscellaplumbingheating",
@@ -1611,20 +1494,18 @@
         "phone": "631-667-9838",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "160 Skidmore Road South, Deer Park, NY 11729, United States of America",
-        "priority": "Q",
-        "img": "NB-63Q"
+        "address_formatted": "160 Skidmore Road South, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
-          -73.3084686420912,
-          40.746949773234086
+          -73.30837157620219,
+          40.746533157042414
         ],
         "type": "Point"
       }
     },
     {
-      "id": "OCJlxiRZ1rBY72BD8ypFyuV3Lt2W0tcy",
+      "id": "HGpwoYtBvJov6zBlz9VpOsA91RWcBWSP",
       "type": "Feature",
       "properties": {
         "id": "amsoilkingsofny",
@@ -1638,9 +1519,7 @@
         "web": "http://AMO1PRO.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "316 Sylvan Road, North Babylon, NY 11703, United States of America",
-        "priority": "D",
-        "img": "NB-64D"
+        "address_formatted": "316 Sylvan Road, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1651,7 +1530,7 @@
       }
     },
     {
-      "id": "KFttrFDnlHfpP8osVE9U2oJBSqlizVU1",
+      "id": "07I1CDDxVR6Uao27MubG6PXOFcBnVZtV",
       "type": "Feature",
       "properties": {
         "id": "alitaliapizzeriarestaurant",
@@ -1665,9 +1544,7 @@
         "web": "http://AlitaliaBabylon.com",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "999 West Montauk Highway, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-65D"
+        "address_formatted": "999 West Montauk Highway, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1678,7 +1555,7 @@
       }
     },
     {
-      "id": "Tu0FWhMu406oukb6dI6rCH44bGUdjR9j",
+      "id": "okz9XNJYYLep8a7IJZUzrj6B3Sco5Cze",
       "type": "Feature",
       "properties": {
         "id": "dutchgirlcleaners",
@@ -1692,9 +1569,7 @@
         "web": "http://DutchGirlCleanerNorthBabylon.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "1365 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "S",
-        "img": "NB-66S"
+        "address_formatted": "1365 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1705,7 +1580,7 @@
       }
     },
     {
-      "id": "HQM4pBOLnkEq02FNKCWbcJlyYJBBwhdY",
+      "id": "UUmgQqAXrkPFUdWF29ZLrGV8Ryl91IdS",
       "type": "Feature",
       "properties": {
         "id": "westsuffolkautobody",
@@ -1719,9 +1594,7 @@
         "web": "http://WestSuffolkAutoBody.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "400 Route 109, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-67D"
+        "address_formatted": "400 Route 109, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1732,7 +1605,7 @@
       }
     },
     {
-      "id": "NLbMsjFzPjgoQ8FmWq9vBojoZRfXzFSA",
+      "id": "2x4gNFALcEZBQrQmZ3c3Q4IqiKcoebGE",
       "type": "Feature",
       "properties": {
         "id": "elgolazo",
@@ -1745,9 +1618,7 @@
         "phone": "631-886-7300",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "885 Route 109, West Babylon, NY 11704, United States of America",
-        "priority": "S",
-        "img": "NB-68S"
+        "address_formatted": "885 Route 109, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1758,7 +1629,7 @@
       }
     },
     {
-      "id": "S26QRvTUSU8eOFNYEKmhvldwfDS7k2Kt",
+      "id": "q54ZdChpj7jCz3Wm4VytmKQkTczxxEiC",
       "type": "Feature",
       "properties": {
         "id": "aaacheaptreelandscapingofli",
@@ -1774,9 +1645,7 @@
         "web": "http://AAACheapTree.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "319 West 11th Street, Deer Park, NY 11729, United States of America",
-        "priority": "Q",
-        "img": "NB-69Q"
+        "address_formatted": "319 West 11th Street, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1787,7 +1656,7 @@
       }
     },
     {
-      "id": "PhwQ4N9BqgvfJaaS62gvAx4O24UBdA7i",
+      "id": "xTp4sLf4WyMHxtLcurcm70FplPtz9REb",
       "type": "Feature",
       "properties": {
         "id": "consultinginsuranceagency",
@@ -1801,9 +1670,7 @@
         "web": "http://ConsultingInsuranceAgency.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "1350 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "Q",
-        "img": "NB-70Q"
+        "address_formatted": "1350 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1814,7 +1681,7 @@
       }
     },
     {
-      "id": "OKqSwemZszgaaSvXWhvH1vvs0D6ib2G2",
+      "id": "QOhFucDqDiVH3fWiLhwTYjnrfh5i3Qap",
       "type": "Feature",
       "properties": {
         "id": "cmfbarbershop",
@@ -1828,9 +1695,7 @@
         "instagram": "https://www.instagram.com/cmf_ent_barbershop/",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "761 Deer Park Avenue, North Babylon, NY 11746, United States of America",
-        "priority": "S",
-        "img": "NB-71S"
+        "address_formatted": "761 Deer Park Avenue, North Babylon, NY 11746, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1841,7 +1706,7 @@
       }
     },
     {
-      "id": "vocagDSLRliYOhyt9Hb0fhJsKZ6QfLS0",
+      "id": "0r2vqaMeSnITulcukrSTBrPefXqpEJjm",
       "type": "Feature",
       "properties": {
         "id": "namelessink",
@@ -1855,9 +1720,7 @@
         "instagram": "https://www.instagram.com/the_nameless_ink/",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "820 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "S",
-        "img": "NB-72S"
+        "address_formatted": "820 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1868,7 +1731,7 @@
       }
     },
     {
-      "id": "F7RbTTRqdzFaKAIvfqNxGFJQMOygcGYe",
+      "id": "eQApopSHprixx5PwhESFaa5L1TZAjbV0",
       "type": "Feature",
       "properties": {
         "id": "jamphysicaltherapy",
@@ -1881,20 +1744,18 @@
         "phone": "516-932-3278",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "179 Great East Neck Road, West Babylon, NY 11704, United States of America",
-        "priority": "Q",
-        "img": "NB-73Q"
+        "address_formatted": "179 Great East Neck Road, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
-          -73.34461899663393,
-          40.69172807566422
+          -73.34463176387717,
+          40.692420200515066
         ],
         "type": "Point"
       }
     },
     {
-      "id": "bCNaC9cjlpFbLQtGyVKvOs5gTm4Ks9rb",
+      "id": "2rNgH7FCVnOjfyqvaCXpanll9lpc3Kll",
       "type": "Feature",
       "properties": {
         "id": "manettohillchiropracticandrehabilitation",
@@ -1908,20 +1769,18 @@
         "web": "http://ManettoHillChiropractic.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "179 Great East Neck Road, West Babylon, NY 11704, United States of America",
-        "priority": "Q",
-        "img": "NB-73Q"
+        "address_formatted": "179 Great East Neck Road, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
-          -73.34465301053731,
-          40.69278547171361
+          -73.34452124274979,
+          40.6929788609606
         ],
         "type": "Point"
       }
     },
     {
-      "id": "09DlDAEULoiZOzJN7Qx62bIFBO38ENFV",
+      "id": "7cFdVjWwrzK6f0b43VDv1ax0Dm8zUKdt",
       "type": "Feature",
       "properties": {
         "id": "berkshirenursingrehabilitationcenter",
@@ -1935,9 +1794,7 @@
         "web": "http://BerkshireRehab.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "10 Berkshire Road, West Babylon, NY 11704, United States of America",
-        "priority": "Q",
-        "img": "NB-74Q"
+        "address_formatted": "10 Berkshire Road, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1948,7 +1805,7 @@
       }
     },
     {
-      "id": "iT60S790U3jVYfd7ImbTMqFvP2bpeYX1",
+      "id": "PwoKiSpYR6yuvCni70YhPKZnxmCt6y2a",
       "type": "Feature",
       "properties": {
         "id": "atlanticautomall",
@@ -1962,9 +1819,7 @@
         "web": "http://AtlanticAutoGroup.net",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "193 Sunrise Highway, West Islip, NY 11795, United States of America",
-        "priority": "Q",
-        "img": "NB-75Q"
+        "address_formatted": "193 Sunrise Highway, West Islip, NY 11795, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -1975,7 +1830,7 @@
       }
     },
     {
-      "id": "0UAScmGkmtheBAYIi81uBtDv9nrwbG1K",
+      "id": "IbMsLCNqNwfLPGx10n3i4QQqSmAe9RIJ",
       "type": "Feature",
       "properties": {
         "id": "allingraphicsandmedia",
@@ -1989,9 +1844,7 @@
         "instagram": "https://www.instagram.com/Allin1_LI/",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "939 Little East Neck Road North, West Babylon, NY 11704, United States of America",
-        "priority": "S",
-        "img": "NB-76S"
+        "address_formatted": "939 Little East Neck Road North, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2002,7 +1855,7 @@
       }
     },
     {
-      "id": "CUFBEurF05XLEpCFfuyldyHwlbUsuGcP",
+      "id": "GUriMR8JVU5e07gFtKZdAN6IJNdC1GR9",
       "type": "Feature",
       "properties": {
         "id": "carvelofwestbabylon",
@@ -2016,9 +1869,7 @@
         "web": "http://Carvel.WestBabylon@gmail.com",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "937 Little East Neck Road North, West Babylon, NY 11704, United States of America",
-        "priority": "S",
-        "img": "NB-77S"
+        "address_formatted": "937 Little East Neck Road North, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2029,7 +1880,7 @@
       }
     },
     {
-      "id": "wIqQKQKAv8Iz6rVyJYyLEFDmohNjPGZK",
+      "id": "Y14RHx6CGLPQraRFcYuDe29iOoMO67sb",
       "type": "Feature",
       "properties": {
         "id": "maxwellturfsupplycoinc",
@@ -2045,9 +1896,7 @@
         "web": "http://MaxwellTurf.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "414 Long Island Avenue, Wyandanch, NY 11798, United States of America",
-        "priority": "Q",
-        "img": "NB-78Q"
+        "address_formatted": "414 Long Island Avenue, Wyandanch, NY 11798, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2058,7 +1907,7 @@
       }
     },
     {
-      "id": "fiYgmCrdlv6MpOTVGYekaNwCPZ2gCDyt",
+      "id": "7JLTPzudBNKdBNmvhXASKQ1OAC7whcvT",
       "type": "Feature",
       "properties": {
         "id": "minimalbarbershop",
@@ -2072,9 +1921,7 @@
         "web": "http://MinimalBarbershop.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "247 Bay Shore Road, Deer Park, NY 11703, United States of America",
-        "priority": "D",
-        "img": "NB-79D"
+        "address_formatted": "247 Bay Shore Road, Deer Park, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2085,7 +1932,7 @@
       }
     },
     {
-      "id": "gmqlpltjPkWyUml80Mp7u6swYJb6NDhs",
+      "id": "2MoYCmMCk8edARETuQQC9kk8w0ipgs8J",
       "type": "Feature",
       "properties": {
         "id": "shahshalallindenhurstcitgo",
@@ -2099,9 +1946,7 @@
         "web": "http://ShahsHalalFood.com/Lindenhurst",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "500 Route 109, Lindenhurst, NY 11757, United States of America",
-        "priority": "D",
-        "img": "NB-80D"
+        "address_formatted": "500 Route 109, Lindenhurst, NY 11757, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2112,7 +1957,7 @@
       }
     },
     {
-      "id": "HQPLhj6cto0nVHI4OLkCpIo6uyeCGdQs",
+      "id": "KHbSurYe4XaxAUhPI85VuYkKHyacXRIx",
       "type": "Feature",
       "properties": {
         "id": "captreeclamseafoodcompany",
@@ -2126,9 +1971,7 @@
         "web": "http://CaptreeClamStore.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "440 Falmouth Road, West Babylon, NY 11704, United States of America",
-        "priority": "Q",
-        "img": "NB-81Q"
+        "address_formatted": "440 Falmouth Road, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2139,7 +1982,7 @@
       }
     },
     {
-      "id": "UFLAdAPwJtbwhKlLUJcH3GRjomB6hWbi",
+      "id": "cbvJy0O0WTRxEjhmKGpJsitKbYOY1vuo",
       "type": "Feature",
       "properties": {
         "id": "simplicityautomotivesales",
@@ -2153,9 +1996,7 @@
         "instagram": "https://www.instagram.com/simplicity7_autobody/",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "140 Lamar Street, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-82D"
+        "address_formatted": "140 Lamar Street, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2166,7 +2007,7 @@
       }
     },
     {
-      "id": "ut3eSV0BP2I1g5loj5UymMJ254Ac8Xdj",
+      "id": "JPkURWwjFJbFkFbfsya1NYhXqrKEbOhR",
       "type": "Feature",
       "properties": {
         "id": "groomingbyalexandsarah",
@@ -2180,9 +2021,7 @@
         "web": "http://GroomingByAS.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "974 Sunrise Highway, West Babylon, NY 11704, United States of America",
-        "priority": "S",
-        "img": "NB-83S"
+        "address_formatted": "974 Sunrise Highway, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2193,7 +2032,7 @@
       }
     },
     {
-      "id": "fOIwA3zvwihUKSfOrfmM1g1TpTHbwLzt",
+      "id": "1zgmYMp5UliGlmj0IAfdFObmZXeyVjgz",
       "type": "Feature",
       "properties": {
         "id": "dentalstudio",
@@ -2207,9 +2046,7 @@
         "web": "http://DentalStudioNY.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "505 Sunrise Highway, West Babylon, NY 11704, United States of America",
-        "priority": "Q",
-        "img": "NB-84Q"
+        "address_formatted": "505 Sunrise Highway, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2220,7 +2057,7 @@
       }
     },
     {
-      "id": "zw51brA5kZvbvitv3Tq0KKyAIfBrIU4T",
+      "id": "AqOKSv3O2b4bYOFNoKQCiVWuSDxfAZix",
       "type": "Feature",
       "properties": {
         "id": "inthekutbarberstudio",
@@ -2234,9 +2071,7 @@
         "web": "http://InTheKutBarberStudio.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "769 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "S",
-        "img": "NB-85S"
+        "address_formatted": "769 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2247,7 +2082,7 @@
       }
     },
     {
-      "id": "rhWrXhavdN9ijyPwv5mw8NqOI5DNLrgj",
+      "id": "LFE9qjeWUDai9fby4jS8vQRPbCkWiYVN",
       "type": "Feature",
       "properties": {
         "id": "greekrave",
@@ -2261,9 +2096,7 @@
         "web": "http://GreeKrave.com",
         "category": "eat_and_drink",
         "subcategory": "eat_and_drink",
-        "address_formatted": "9 Bay Shore Road, Deer Park, NY 11729, United States of America",
-        "priority": "D",
-        "img": "NB-86D"
+        "address_formatted": "9 Bay Shore Road, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2274,7 +2107,7 @@
       }
     },
     {
-      "id": "nzytlhrlpbfZ4HPAzR5ndJALCw0luGxJ",
+      "id": "acGluQrq5q9eNFCrwpfueRa6ABn2PfDt",
       "type": "Feature",
       "properties": {
         "id": "ragsautocollision",
@@ -2288,9 +2121,7 @@
         "instagram": "https://www.instagram.com/rags_autobody/",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "417 Falmouth Road, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-87D"
+        "address_formatted": "417 Falmouth Road, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2301,7 +2132,7 @@
       }
     },
     {
-      "id": "p8ArAKMY96Wc5Z3eszivVKBlG3ZPMpep",
+      "id": "IKK4rusGYXdGdKOQjxh5RO0wpbQrOB6x",
       "type": "Feature",
       "properties": {
         "id": "strongislandelectric",
@@ -2315,9 +2146,7 @@
         "web": "http://StrongIslandElectric.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "38 Kean Street, Wyandanch, NY 11704, United States of America",
-        "priority": "T",
-        "img": "NB-88T"
+        "address_formatted": "38 Kean Street, Wyandanch, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2328,7 +2157,7 @@
       }
     },
     {
-      "id": "shvd3z8SilB6PzAPV8K7s7tUZH8odAzK",
+      "id": "12HhhgtEA94PNy90C4OOWghWK8inD9k1",
       "type": "Feature",
       "properties": {
         "id": "bodydesigns",
@@ -2344,9 +2173,7 @@
         "web": "http://BodyDesigns.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "1739 Deer Park Avenue, Deer Park, NY 11729, United States of America",
-        "priority": "D",
-        "img": "NB-89D"
+        "address_formatted": "1739 Deer Park Avenue, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2357,7 +2184,7 @@
       }
     },
     {
-      "id": "rlRNi6zh1Wg7gn33481855wFOqEP43Uu",
+      "id": "3XTyIFluTuOaAJFykc8RXsHq2AxM978R",
       "type": "Feature",
       "properties": {
         "id": "menonthemove",
@@ -2371,9 +2198,7 @@
         "web": "http://MenOnTheMove.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "North Hempstead (Westbury), NY, United States of America",
-        "priority": "T",
-        "img": "NB-90T"
+        "address_formatted": "North Hempstead (Westbury), NY, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2384,7 +2209,7 @@
       }
     },
     {
-      "id": "TccZzoFFinyzKr7cdRWLpWQMiiXkeMah",
+      "id": "pYhEO6pfJyZ4dtww8xiGhRXRcCKaI33M",
       "type": "Feature",
       "properties": {
         "id": "menonthemovemobilestorage",
@@ -2398,9 +2223,7 @@
         "web": "http://MenOnTheMove.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "150 Crossways Park Drive West, Woodbury, NY 11797, United States of America",
-        "priority": "T",
-        "img": "NB-91T"
+        "address_formatted": "150 Crossways Park Drive West, Woodbury, NY 11797, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2411,7 +2234,7 @@
       }
     },
     {
-      "id": "9higAqCQmjyWQ14bvVgyjalyPcQHmV1m",
+      "id": "4OEKmeh3BDN51dLn6ilFaYvjGp6RV2Ex",
       "type": "Feature",
       "properties": {
         "id": "pinnacleshutters",
@@ -2425,9 +2248,7 @@
         "web": "http://PinnacleShuttersLongIsland.com",
         "category": "shop_and_discover",
         "subcategory": "shop_and_discover",
-        "address_formatted": "42 Kean Street, West Babylon, NY 11704, United States of America",
-        "priority": "S",
-        "img": "NB-92S"
+        "address_formatted": "42 Kean Street, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2438,7 +2259,7 @@
       }
     },
     {
-      "id": "s89AOIu0Z8y1QJwsm6iXs52k8mLlYX0E",
+      "id": "LmHsyrhUuEXc3fabrT7EZ8n84Ec1Pbny",
       "type": "Feature",
       "properties": {
         "id": "arrowscrap",
@@ -2452,9 +2273,7 @@
         "web": "http://ArrowScrap.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "83 Kean Street, West Babylon, NY 11704, United States of America",
-        "priority": "T",
-        "img": "NB-93T"
+        "address_formatted": "83 Kean Street, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2465,7 +2284,7 @@
       }
     },
     {
-      "id": "dUtiOWByHdXIebyupKLIhTEQ0gnUvmA3",
+      "id": "gCLxlFLc1gTPnmyI4DDdRjjwg9CYPj7Z",
       "type": "Feature",
       "properties": {
         "id": "foxandcompanysalon",
@@ -2479,9 +2298,7 @@
         "web": "http://WestBabylonHairSalon.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "948 Little East Neck Road North, West Babylon, NY 11704, United States of America",
-        "priority": "D",
-        "img": "NB-94D"
+        "address_formatted": "948 Little East Neck Road North, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2492,7 +2309,7 @@
       }
     },
     {
-      "id": "p7usbwnuvEJgyAwhWaQgqs5UpyHNmBzS",
+      "id": "7Sd6fK7VoZucfNKh4g49KCVt8DA9slhp",
       "type": "Feature",
       "properties": {
         "id": "cynthiaeichingerexitrealtyachieve",
@@ -2505,9 +2322,7 @@
         "phone": "631-455-2337",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "956 Jericho Turnpike, Smithtown, NY 11787, United States of America",
-        "priority": "D",
-        "img": "NB-95D"
+        "address_formatted": "956 Jericho Turnpike, Smithtown, NY 11787, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2518,7 +2333,7 @@
       }
     },
     {
-      "id": "YAhY8ONCZdhsrixzixg0sht04cn4K5Mq",
+      "id": "xcClnZJbPqEAV2HcOR4qqX6xZq6Jdx8V",
       "type": "Feature",
       "properties": {
         "id": "risewellcommunityservices",
@@ -2532,9 +2347,7 @@
         "web": "http://RiseWell.org",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "1 Route 109, West Babylon, NY 11704, United States of America",
-        "priority": "S",
-        "img": "NB-96S"
+        "address_formatted": "1 Route 109, West Babylon, NY 11704, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2545,7 +2358,7 @@
       }
     },
     {
-      "id": "TlxGAnwBxwe4Q6u28ftDj1fnOtFyXVW0",
+      "id": "PKup55t18tjuZq9grK2ozokE8cMe1LxI",
       "type": "Feature",
       "properties": {
         "id": "llewmerchantllc",
@@ -2559,20 +2372,18 @@
         "web": "http://LlewMerchant.com",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "McMurdo Station, Antarctica",
-        "priority": "Q",
-        "img": "NB-97Q"
+        "address_formatted": "McMurdo Station, Antarctica"
       },
       "geometry": {
         "coordinates": [
-          -73.36166293896501,
-          40.7559223466899
+          -73.35642796146072,
+          40.774944128146586
         ],
         "type": "Point"
       }
     },
     {
-      "id": "csfzACn91soUsv5OqDTAwykUOb07Jlgh",
+      "id": "jmMT30xJ47v3A1kh7na3tBYcpmZzJWHx",
       "type": "Feature",
       "properties": {
         "id": "sansoneautobody",
@@ -2586,9 +2397,7 @@
         "instagram": "https://www.instagram.com/SansoneAutoBody/",
         "category": "live_and_work",
         "subcategory": "live_and_work",
-        "address_formatted": "92 Brook Avenue, Deer Park, NY 11729, United States of America",
-        "priority": "Q",
-        "img": "NB-98Q"
+        "address_formatted": "92 Brook Avenue, Deer Park, NY 11729, United States of America"
       },
       "geometry": {
         "coordinates": [
@@ -2599,7 +2408,7 @@
       }
     },
     {
-      "id": "Y0WDdhkjTnpqDUnKuoV4Ar2flvgYxjnp",
+      "id": "DAGtvybnClDGWwts0adDBdRBz17ttdab",
       "type": "Feature",
       "properties": {
         "id": "pmpediatricurgentcare",
@@ -2613,9 +2422,7 @@
         "web": "http://PMPediatricCare.com",
         "category": "thrive_and_be_well",
         "subcategory": "thrive_and_be_well",
-        "address_formatted": "1130 Deer Park Avenue, North Babylon, NY 11703, United States of America",
-        "priority": "S",
-        "img": "NB-99S"
+        "address_formatted": "1130 Deer Park Avenue, North Babylon, NY 11703, United States of America"
       },
       "geometry": {
         "coordinates": [

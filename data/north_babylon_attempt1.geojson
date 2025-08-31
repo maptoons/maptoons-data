@@ -83,8 +83,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.30566573032308,
-                    40.741186694491084
+                    -73.3205125174898,
+                    40.747969000408936
                 ]
             }
         },
@@ -243,8 +243,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.32054446766976,
-                    40.736068427778086
+                    -73.31986256598714,
+                    40.73643384468394
                 ]
             }
         },
@@ -349,8 +349,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.32208931330825,
-                    40.721175599999995
+                    -73.32209731967367,
+                    40.7210967163267
                 ]
             }
         },
@@ -362,7 +362,7 @@
                 "town": "N. Babylon",
                 "business": "Shop & Discover",
                 "info": "Private studio for custom tattoos, holistic wellness, beauty, and mediumship readings. Over 50+ years experience combined. No distractions,  just art, care, and connection.",
-                "mapname": "Strega Rose Tattoo Arts",
+                "mapname": "Strega Rose",
                 "loc": 15,
                 "phone": "631-290-8278",
                 "web": "http://StregaRoseTattooArts.com",
@@ -375,8 +375,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.3223746,
-                    40.721779
+                    -73.32227051725133,
+                    40.72170011708252
                 ]
             }
         },
@@ -713,8 +713,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.337893,
-                    40.676507
+                    -73.33788876750151,
+                    40.67646206090957
                 ]
             }
         },
@@ -739,8 +739,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.337893,
-                    40.676507
+                    -73.33790569749549,
+                    40.6765401693081
                 ]
             }
         },
@@ -1075,8 +1075,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.32054354934398,
-                    40.73602635176082
+                    -73.31985127653236,
+                    40.73626799881314
                 ]
             }
         },
@@ -1565,8 +1565,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.30701203815556,
-                    40.75472781834869
+                    -73.30837157620219,
+                    40.746533157042414
                 ]
             }
         },
@@ -1825,8 +1825,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.3446870244417,
-                    40.69281126326714
+                    -73.34463176387717,
+                    40.692420200515066
                 ]
             }
         },
@@ -1851,8 +1851,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.3446870244417,
-                    40.69281126326714
+                    -73.34452124274979,
+                    40.6929788609606
                 ]
             }
         },
@@ -2478,8 +2478,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    166.668453,
-                    -77.846213
+                    -73.35642796146072,
+                    40.774944128146586
                 ]
             }
         },
