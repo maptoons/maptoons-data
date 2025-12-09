@@ -38,9 +38,9 @@ def main():
         #    geojson="data/hicksville.geojson",
         #),
         DataSource(
-            name="North Babylon, NY",
-            csv="data/2025_best_of_nb.csv",
-            geojson="data/north_babylon.geojson",
+            name="Oceanside, NY",
+            csv="data/2025_best_of_oceanside.csv",
+            geojson="data/oceanside.geojson",
         )
     ]
     for m in maps_to_scrape:
@@ -68,9 +68,9 @@ def main():
         #    img="img/HK-*png",
         #),
         Corrections(
-            filename="data/north_babylon.geojson",
+            filename="data/oceanside.geojson",
         #    corrections="data/north_babylon_corrected.geojson",
-            img="img/NB-*png"
+            img="img/OS-*png"
         ),
     ]
     for m in maps_to_fix:
